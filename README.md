@@ -13,12 +13,9 @@ These tools let you speak and have text appear wherever you're typing. Some run 
 ## Contents
 
 - [Just Tell Me What to Use](#just-tell-me-what-to-use)
-- [Scope](#scope)
 - [Directory](#directory)
 - [Related Projects](#related-projects)
-- [Inclusion Notes](#inclusion-notes)
-- [Contributing](#contributing)
-- [License](#license)
+- [Scope](#scope)
 
 ## Just Tell Me What to Use
 
@@ -29,22 +26,6 @@ A few starting points:
 - **Cross-platform default:** [Handy](https://github.com/cjpais/Handy). Biggest open-source project in this list, runs on Linux, macOS, and Windows.
 - **On macOS, want a native feel:** [VoiceInk](https://github.com/Beingpax/VoiceInk) or [FluidVoice](https://github.com/altic-dev/FluidVoice).
 - **Want cloud providers or AI transformations on top:** [Whispering](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) or [OpenWhispr](https://github.com/OpenWhispr/openwhispr).
-
-## Scope
-
-This list focuses on tools that let you speak and get text into the place where you are actively working.
-
-- Open-source apps, keyboards, menu bar utilities, and CLI tools for dictation or voice typing
-- Desktop, mobile, and terminal-first workflows
-- Local-only and hybrid tools, as long as the project itself is open source
-
-This list does not try to cover:
-
-- Closed-source products
-- General transcription tools that do not support typing or dictation workflows
-- Meeting bots, note takers, or speech APIs without a usable typing interface
-
-Most tools on this list support offline speech recognition. See `Mode` and `Engine` in the directory below for the details.
 
 ## Directory
 
@@ -103,16 +84,6 @@ Speech recognition engines, models, and APIs that power the tools listed above.
 - [Apple Speech](https://developer.apple.com/documentation/speech) - Apple's on-device speech recognition framework for iOS, macOS, and watchOS.
 - [Awesome Whisper](https://github.com/sindresorhus/awesome-whisper) - Curated list of Whisper tools and resources.
 
-## Inclusion Notes
+## Scope
 
-- Entries are linked to their source repository rather than landing pages or app-store listings.
-- Some projects on this list also offer paid binaries or hosted features. They still belong here if the underlying repository is open source.
-- Submissions are held to a minimum maturity bar. See [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding, updating, or removing entries.
-
-## License
-
-[MIT](LICENSE)
+This list focuses on open-source apps, keyboards, and CLI tools for voice typing and dictation across desktop, mobile, and terminal workflows, with local or cloud speech recognition. Closed-source products, general transcription tools without dictation workflows, meeting bots, note takers, and standalone speech APIs are outside its scope.
