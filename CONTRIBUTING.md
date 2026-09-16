@@ -31,6 +31,14 @@ Replace `user/repo` in both URLs with the project's GitHub owner and repository 
 
 Open a pull request titled `Add [Project Name]`. Self-submissions are welcome; disclose if you are the author or a maintainer. The same criteria apply to all submissions.
 
+### Optional Badge
+
+Once your project is listed, you’re welcome to add this badge to your README to highlight its inclusion in Awesome Voice Typing:
+
+```markdown
+[![Listed in Awesome Voice Typing](https://img.shields.io/badge/Listed_in-Awesome_Voice_Typing-436D99?style=for-the-badge&labelColor=24292F)](https://github.com/primaprashant/awesome-voice-typing)
+```
+
 ## Updating or Removing an Entry
 
 For updates, edit the relevant row and link to supporting release notes, commits, or documentation in your PR description when possible.
