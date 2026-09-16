@@ -25,7 +25,6 @@ A few starting points:
 
 - **Cross-platform default:** [Handy](https://github.com/cjpais/Handy). Biggest open-source project in this list, runs on Linux, macOS, and Windows.
 - **On macOS, want a native feel:** [VoiceInk](https://github.com/Beingpax/VoiceInk) or [FluidVoice](https://github.com/altic-dev/FluidVoice).
-- **Want cloud providers or AI transformations on top:** [Whispering](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) or [OpenWhispr](https://github.com/OpenWhispr/openwhispr).
 
 ## Directory
 
