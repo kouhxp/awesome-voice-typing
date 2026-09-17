@@ -25,7 +25,7 @@ Replace `user/repo` in both URLs with the project's GitHub owner and repository 
 | --- | --- |
 | Name | Use the project's name and link to its source repository. Include the star badge as shown above. |
 | Platforms | List all supported platforms, comma-separated, including `Web` if supported. |
-| Mode | Use `Local` for on-device recognition or `Hybrid` for tools supporting both local and cloud recognition. |
+| Mode | Use `Local` for on-device recognition, `Hybrid` for tools supporting both local and cloud recognition, or `Cloud` for tools requiring a remote speech recognition service. |
 | Engine | Name the speech-to-text engines used, e.g. `Whisper.cpp, Faster Whisper`. |
 | Summary | Write one factual sentence in sentence case, ending with a period. Focus on distinguishing features and relevant caveats; avoid marketing language. |
 

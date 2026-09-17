@@ -28,7 +28,7 @@ A few starting points:
 
 ## Directory
 
-`Mode`: `Local` means on-device speech recognition. `Hybrid` means the tool supports both local and cloud or BYO-cloud setups.
+`Mode`: `Local` means on-device speech recognition. `Hybrid` means the tool supports both local and cloud or BYO-cloud setups. `Cloud` means speech recognition requires a remote service.
 
 | Name | Platforms | Mode | Engine | Summary |
 | --- | --- | --- | --- | --- |
