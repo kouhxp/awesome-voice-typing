@@ -35,7 +35,7 @@ Based on stars gained in the last 30 days | Last updated: 2026-09-17
 
 | Tool | Stars gained (30 days) | Total stars | Growth |
 | --- | ---: | ---: | ---: |
-| [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | 2,797 | 8,291 | 50.9% |
+| [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | 2,798 | 8,292 | 50.9% |
 | [Handy](https://github.com/cjpais/Handy) | 2,040 | 31,796 | 6.9% |
 | [FluidVoice](https://github.com/altic-dev/FluidVoice) | 1,045 | 11,595 | 9.9% |
 | [VoiceInk](https://github.com/Beingpax/VoiceInk) | 492 | 6,436 | 8.3% |
