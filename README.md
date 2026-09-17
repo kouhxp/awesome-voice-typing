@@ -13,6 +13,7 @@ These tools let you speak and have text appear wherever you're typing. Some run 
 ## Contents
 
 - [Just Tell Me What to Use](#just-tell-me-what-to-use)
+- [Trending Voice Typing Tools](#trending-voice-typing-tools)
 - [Directory](#directory)
 - [Related Projects](#related-projects)
 - [Scope](#scope)
@@ -25,6 +26,22 @@ A few starting points:
 
 - **Cross-platform default:** [Handy](https://github.com/cjpais/Handy). Biggest open-source project in this list, runs on Linux, macOS, and Windows.
 - **On macOS, want a native feel:** [VoiceInk](https://github.com/Beingpax/VoiceInk) or [FluidVoice](https://github.com/altic-dev/FluidVoice).
+
+## Trending Voice Typing Tools
+
+<!-- trending:start -->
+
+Based on stars gained in the last 30 days | Last updated: 2026-09-17
+
+| Tool | Stars gained (30 days) | Total stars | Growth |
+| --- | ---: | ---: | ---: |
+| [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | 2,796 | 8,290 | 50.9% |
+| [Handy](https://github.com/cjpais/Handy) | 2,040 | 31,796 | 6.9% |
+| [FluidVoice](https://github.com/altic-dev/FluidVoice) | 1,045 | 11,595 | 9.9% |
+| [VoiceInk](https://github.com/Beingpax/VoiceInk) | 492 | 6,436 | 8.3% |
+| [OpenLess](https://github.com/Open-Less/openless) | 424 | 3,551 | 13.6% |
+
+<!-- trending:end -->
 
 ## Directory
 

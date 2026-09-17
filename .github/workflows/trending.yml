@@ -1,0 +1,39 @@
+name: Update trending tools
+
+on:
+  schedule:
+    - cron: '3 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trending
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Test updater
+        run: python3 -m unittest discover -s trending
+
+      - name: Update trending section
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 trending/update.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: update trending voice typing tools"
+            git push origin HEAD:main
+          fi
