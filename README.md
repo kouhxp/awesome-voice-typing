@@ -14,6 +14,7 @@ These tools let you speak and have text appear wherever you're typing. Some run 
 
 - [Just Tell Me What to Use](#just-tell-me-what-to-use)
 - [Trending Voice Typing Tools](#trending-voice-typing-tools)
+- [Hacker News Discussions](#hacker-news-discussions)
 - [Directory](#directory)
 - [Related Projects](#related-projects)
 - [Scope](#scope)
@@ -42,6 +43,16 @@ Based on stars gained in the last 30 days | Last updated: 2026-09-17
 | [OpenLess](https://github.com/Open-Less/openless) | 425 | 3,552 | 13.6% |
 
 <!-- trending:end -->
+
+## Hacker News Discussions
+
+| HN title | Points | Comments | Date posted |
+| --- | ---: | ---: | --- |
+| [Show HN: Whispering – Open-source, local-first dictation you can trust](https://news.ycombinator.com/item?id=44942731) | 591 | 152 | 2025-08-18 |
+| [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://news.ycombinator.com/item?id=47666024) | 467 | 200 | 2026-04-06 |
+| [Handy – Free open source speech-to-text app](https://news.ycombinator.com/item?id=46628397) | 247 | 110 | 2026-01-15 |
+| [Transcribro: On-device Accurate Speech-to-text](https://news.ycombinator.com/item?id=40997850) | 165 | 60 | 2024-07-18 |
+| [Show HN: Yap – OSS on-device voice dictation for macOS with no model to download](https://news.ycombinator.com/item?id=49073834) | 104 | 44 | 2026-07-27 |
 
 ## Directory
 
