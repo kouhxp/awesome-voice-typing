@@ -2,7 +2,7 @@ name: Update trending tools
 
 on:
   schedule:
-    - cron: '3 0 * * *'
+    - cron: '47 0 * * *'
   workflow_dispatch:
 
 permissions:
