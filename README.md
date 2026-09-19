@@ -21,10 +21,6 @@ These tools let you speak and have text appear wherever you're typing. Some run 
 
 ## Just Tell Me What to Use
 
-All these tools do the same core thing: transcribe your speech and paste it wherever your cursor is. The differences come down to platform, engine preference, and how much you want beyond basic dictation.
-
-A few starting points:
-
 - **Cross-platform default:** [Handy](https://github.com/cjpais/Handy). Biggest open-source project in this list, runs on Linux, macOS, and Windows.
 - **On macOS, want a native feel:** [VoiceInk](https://github.com/Beingpax/VoiceInk) or [FluidVoice](https://github.com/altic-dev/FluidVoice).
 
