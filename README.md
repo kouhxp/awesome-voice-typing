@@ -32,15 +32,15 @@ A few starting points:
 
 <!-- trending:start -->
 
-Based on stars gained in the last 30 days | Last updated: 2026-09-18
+Based on stars gained in the last 30 days | Last updated: 2026-09-19
 
 | Tool | Stars gained (30 days) | Total stars | Growth |
 | --- | ---: | ---: | ---: |
-| [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | 2,800 | 8,321 | 50.7% |
-| [Handy](https://github.com/cjpais/Handy) | 1,973 | 31,807 | 6.6% |
-| [FluidVoice](https://github.com/altic-dev/FluidVoice) | 1,005 | 11,613 | 9.5% |
-| [VoiceInk](https://github.com/Beingpax/VoiceInk) | 477 | 6,443 | 8.0% |
-| [OpenLess](https://github.com/Open-Less/openless) | 416 | 3,567 | 13.2% |
+| [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | 2,798 | 8,344 | 50.5% |
+| [Handy](https://github.com/cjpais/Handy) | 1,968 | 31,855 | 6.6% |
+| [FluidVoice](https://github.com/altic-dev/FluidVoice) | 981 | 11,632 | 9.2% |
+| [VoiceInk](https://github.com/Beingpax/VoiceInk) | 466 | 6,454 | 7.8% |
+| [OpenLess](https://github.com/Open-Less/openless) | 415 | 3,579 | 13.1% |
 
 <!-- trending:end -->
 
