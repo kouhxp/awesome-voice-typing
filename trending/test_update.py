@@ -10,7 +10,7 @@ import update
 TODAY = date(2026, 9, 17)
 README = f"""# Tools
 | [Badge](https://github.com/outside/badge) |
-## Trending Voice Typing Tools
+## Trending in the Last 30 Days
 {update.START}
 
 Existing table
@@ -65,7 +65,7 @@ class UpdateTests(unittest.TestCase):
             self.assertEqual(rendered, update.render(rows, TODAY))
         self.assertEqual(
             rendered,
-            "Based on stars gained in the last 30 days | Last updated: 2026-09-17\n"
+            "Last updated: 2026-09-17\n"
             "\n"
             "| Tool | Stars gained (30 days) | Total stars | Growth |\n"
             "| --- | ---: | ---: | ---: |\n"

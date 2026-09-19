@@ -13,7 +13,7 @@ These tools let you speak and have text appear wherever you're typing. Some run 
 ## Contents
 
 - [Just Tell Me What to Use](#just-tell-me-what-to-use)
-- [Trending Voice Typing Tools](#trending-voice-typing-tools)
+- [Trending in the Last 30 Days](#trending-in-the-last-30-days)
 - [Hacker News Discussions](#hacker-news-discussions)
 - [Directory](#directory)
 - [Related Projects](#related-projects)
@@ -28,11 +28,11 @@ A few starting points:
 - **Cross-platform default:** [Handy](https://github.com/cjpais/Handy). Biggest open-source project in this list, runs on Linux, macOS, and Windows.
 - **On macOS, want a native feel:** [VoiceInk](https://github.com/Beingpax/VoiceInk) or [FluidVoice](https://github.com/altic-dev/FluidVoice).
 
-## Trending Voice Typing Tools
+## Trending in the Last 30 Days
 
 <!-- trending:start -->
 
-Based on stars gained in the last 30 days | Last updated: 2026-09-19
+Last updated: 2026-09-19
 
 | Tool | Stars gained (30 days) | Total stars | Growth |
 | --- | ---: | ---: | ---: |

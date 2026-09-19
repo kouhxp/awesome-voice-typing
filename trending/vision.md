@@ -1,4 +1,4 @@
-# Trending Voice Typing Tools
+# Trending in the Last 30 Days
 
 ## Problem Statement
 
@@ -14,7 +14,7 @@ The feature measures momentum. Its success is a useful, readable signal that req
 
 ### README presentation
 
-- Title: **Trending Voice Typing Tools**. Add a contents link.
+- Title: **Trending in the Last 30 Days**. Add a contents link.
 - Table columns: **Tool | Stars gained (30 days) | Total stars | Growth**.
 - Show five entries by default; expose the count as a Python configuration constant.
 - Rank by absolute stars gained, descending; break ties alphabetically by tool name.

@@ -65,7 +65,7 @@ def calculate(history, today):
 
 def render(rows, today):
     lines = [
-        f"Based on stars gained in the last 30 days | Last updated: {today:%Y-%m-%d}",
+        f"Last updated: {today:%Y-%m-%d}",
         "",
         "| Tool | Stars gained (30 days) | Total stars | Growth |",
         "| --- | ---: | ---: | ---: |",
