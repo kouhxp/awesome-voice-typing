@@ -48,7 +48,7 @@ Last updated: 2026-09-19
 ## Hacker News Discussions
 
 | HN title | Points | Comments | Date posted |
-| --- | ---: | ---: | --- |
+| --- | ---: | ---: | ---: |
 | [Show HN: Whispering – Open-source, local-first dictation you can trust](https://news.ycombinator.com/item?id=44942731) | 591 | 152 | 2025-08-18 |
 | [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://news.ycombinator.com/item?id=47666024) | 467 | 200 | 2026-04-06 |
 | [Handy – Free open source speech-to-text app](https://news.ycombinator.com/item?id=46628397) | 247 | 110 | 2026-01-15 |
