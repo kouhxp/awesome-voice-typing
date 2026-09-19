@@ -34,9 +34,14 @@ Last updated: 2026-09-19
 | --- | ---: | ---: | ---: |
 | [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | 2,798 | 8,344 | 50.5% |
 | [Handy](https://github.com/cjpais/Handy) | 1,968 | 31,855 | 6.6% |
-| [FluidVoice](https://github.com/altic-dev/FluidVoice) | 981 | 11,632 | 9.2% |
+| [FluidVoice](https://github.com/altic-dev/FluidVoice) | 982 | 11,633 | 9.2% |
 | [VoiceInk](https://github.com/Beingpax/VoiceInk) | 466 | 6,454 | 7.8% |
 | [OpenLess](https://github.com/Open-Less/openless) | 415 | 3,579 | 13.1% |
+| [VoxType](https://github.com/peteonrails/voxtype) | 331 | 1,489 | 28.6% |
+| [Muesli](https://github.com/Muesli-HQ/muesli) | 307 | 1,271 | 31.8% |
+| [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) | 261 | 2,905 | 9.9% |
+| [CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) | 202 | 6,821 | 3.1% |
+| [SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow) | 120 | 246 | 95.2% |
 
 <!-- trending:end -->
 

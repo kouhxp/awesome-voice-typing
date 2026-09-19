@@ -10,7 +10,7 @@ from datetime import datetime, timedelta, timezone
 from urllib.request import Request, urlopen
 
 
-TOP_N = 5
+TOP_N = 10
 README = Path(__file__).resolve().parents[1] / "README.md"
 START = "<!-- trending:start -->"
 END = "<!-- trending:end -->"

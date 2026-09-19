@@ -16,7 +16,7 @@ The feature measures momentum. Its success is a useful, readable signal that req
 
 - Title: **Trending in the Last 30 Days**. Add a contents link.
 - Table columns: **Tool | Stars gained (30 days) | Total stars | Growth**.
-- Show five entries by default; expose the count as a Python configuration constant.
+- Show ten entries by default; expose the count as a Python configuration constant.
 - Rank by absolute stars gained, descending; break ties alphabetically by tool name.
 - Show the reporting date, integer star counts, and growth rounded to one decimal place.
 
