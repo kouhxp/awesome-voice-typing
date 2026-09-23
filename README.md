@@ -59,7 +59,8 @@ Last updated: 2026-09-23
 ## Community
 
 - If you found this list useful, ⭐ star the repository to help others discover open-source voice typing tools.
-- **Share your setup in [GitHub Discussions](https://github.com/primaprashant/awesome-voice-typing/discussions/categories/share-your-setup).** Share which tools and models you use, your platform and dictation languages, and what you use voice typing for. Share what works, what doesn't, and what else you've tried along the way.
+- **[Vote in the community poll](https://github.com/primaprashant/awesome-voice-typing/discussions/33)** to share which voice typing tool you use.
+- **Share your setup in [GitHub Discussions](https://github.com/primaprashant/awesome-voice-typing/discussions/categories/share-your-setup).** Share which tools and models you use, your platform and dictation languages, and what you use voice typing for. Browse other people's setups for ideas.
 
 ## Directory
 
