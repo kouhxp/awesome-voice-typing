@@ -1,0 +1,46 @@
+title: "<Tool> with <Model> on <Platform>"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Title:** Replace the placeholders with your tool, transcription model, and platform. For example: `Handy with Whisper large-v3 on macOS`.
+
+        Share your firsthand experience with voice typing. Answer whichever fields are relevant.
+
+        **Community guidelines**
+
+        - If you're the author of or affiliated with a tool, DON'T post a discussion for your own tool. Let other satisfied users of your tool create the discussions. Posts created to promote your own project will be removed.
+        - Write in your own words. Don't use LLMs for this. Even if English is not your first language, write by yourself. No one is judging you on grammatical correctness, this is not high school english lit class. If you don't want to write by yourself, you don't have to create a discussion. That is always an option.
+        - Generic AI-generated posts and promotional contents at willl be removed at the maintainer's discretion.
+  - type: textarea
+    id: setup
+    attributes:
+      label: Your voice typing setup
+      description: Share your setup and what you've learned from it.
+      value: |
+        ### My setup
+        - Voice typing tool:
+        - Platform (Windows, macOS, Linux, Android, iOS, or other):
+        - Transcription model(s):
+        - Local processing, cloud, or both:
+        - Primary dictation language:
+
+        ### Text cleanup and post-processing
+        Do you use an LLM for post-processing? Which model, and does ir run on cloud or local?
+
+        ### What I use voice typing for
+        For example: prompts for coding agents, emails, slack messages, or longer writing. Multiple use cases are welcome.
+
+        ### What works well
+        What makes this setup useful for you?
+
+        ### What is still problematic
+        What limitations or frustrations do you run into?
+
+        ### What I tried before
+        Which other voice typing tools or transcription/post-processing models have you tried? Why did you move to your current setup, and what tradeoffs did you make?
+
+        ### Other notes
+        Any other details that could help someone with a similar use case?
+    validations:
+      required: true
