@@ -15,6 +15,7 @@ These tools let you speak and have text appear wherever you're typing. Some run 
 - [Just Tell Me What to Use](#just-tell-me-what-to-use)
 - [Trending in the Last 30 Days](#trending-in-the-last-30-days)
 - [Hacker News Discussions](#hacker-news-discussions)
+- [Community](#community)
 - [Directory](#directory)
 - [Related Projects](#related-projects)
 - [Scope](#scope)
@@ -54,6 +55,11 @@ Last updated: 2026-09-23
 | [Handy – Free open source speech-to-text app](https://news.ycombinator.com/item?id=46628397) | 247 | 110 | 2026-01-15 |
 | [Transcribro: On-device Accurate Speech-to-text](https://news.ycombinator.com/item?id=40997850) | 165 | 60 | 2024-07-18 |
 | [Show HN: Yap – OSS on-device voice dictation for macOS with no model to download](https://news.ycombinator.com/item?id=49073834) | 104 | 44 | 2026-07-27 |
+
+## Community
+
+- If you found this list useful, ⭐ star the repository to help others discover open-source voice typing tools.
+- **Share your setup in [GitHub Discussions](https://github.com/primaprashant/awesome-voice-typing/discussions/categories/share-your-setup).** Share which tools and models you use, your platform and dictation languages, and what you use voice typing for. Share what works, what doesn't, and what else you've tried along the way.
 
 ## Directory
 
