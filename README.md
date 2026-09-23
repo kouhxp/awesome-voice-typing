@@ -8,8 +8,6 @@ A curated list of open-source speech-to-text tools for voice typing and dictatio
 
 These tools let you speak and have text appear wherever you're typing. Some run speech-to-text entirely offline on your own hardware, others use cloud APIs, and many support both. All are open source.
 
----
-
 ## Contents
 
 - [Just Tell Me What to Use](#just-tell-me-what-to-use)
